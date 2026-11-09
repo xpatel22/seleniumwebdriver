@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/xpate/IdeaProjects/seleniumwebdriver/src/test/java/day43Annotations/pack"><classes><class name="day43Annotations.pack.C1"><methods><include name="abc"/></methods></class><class name="day43Annotations.pack.C2"><methods><include name="xyz"/></methods></class></classes></test></suite>

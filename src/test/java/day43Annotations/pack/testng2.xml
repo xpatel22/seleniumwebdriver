@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="pack1test1">
+        <classes>
+            <class name="day43Annotations.pack.C1"/>
+            <class name="day43Annotations.pack.C2"/>
+            <class name="day43Annotations.pack.C3"/>
+        </classes>
+    </test>
+
+    <test name="pack1test2">
+        <classes>
+            <class name="day43Annotations.pack.C1"/>
+            <class name="day43Annotations.pack.C2"/>
+            <class name="day43Annotations.pack.C3"/>
+        </classes>
+    </test>
+</suite>
